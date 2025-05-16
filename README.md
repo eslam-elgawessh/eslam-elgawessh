@@ -4,8 +4,8 @@
 <div align="center">
     <a href="https://github.com/eslam-elgawessh/stargazers">
         <img src="https://img.shields.io/github/stars/eslam-elgawessh?style=social" alt="Stars Badge"/></a>
-    <a href="https://github.com/eslam-elgawessh/network/members">
-        <img src="https://img.shields.io/github/forks/eslam-elgawessh?style=social" alt="Forks Badge"/></a>
+<!--     <a href="https://github.com/eslam-elgawessh/network/members">
+        <img src="https://img.shields.io/github/forks/eslam-elgawessh?style=social" alt="Forks Badge"/></a> -->
     <a href="https://x.com/eslam_elgawessh">
         <img src="https://img.shields.io/twitter/follow/eslam_elgawessh?style=social" alt="Twitter Follow"/></a>
 </div>
